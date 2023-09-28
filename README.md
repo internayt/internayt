@@ -1,4 +1,4 @@
-Over 25 years of development, architecture, and project management experience. A solution architect and full-stack developer with extensive experience using the Microsoft stack for the backend and many frontend frameworks, including building my own.
+Over 30 years of development, architecture, and project management experience. A solution architect and full-stack developer with extensive experience using the Microsoft stack for the backend and many frontend frameworks, including building my own.
 
 I have developed hundreds of applications as the sole developer or leading small teams and co-founded startups, handling all technical aspects of a business. 
 
