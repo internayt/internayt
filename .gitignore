@@ -260,3 +260,4 @@ paket-files/
 __pycache__/
 *.pyc
 /.wrangler/tmp
+/package-lock.json
