@@ -1,15 +1,16 @@
 [
-  {
-    "outputFileName": "bundle.js",
-    "inputFiles": [
-      "fontawesome.js",
-      "fa-custom.js"
-    ]
-  },
-  {
-    "outputFileName": "index.html",
-    "inputFiles": [
-      "index.original.html"
-    ]
-  }
+    {
+        "outputFileName": "bundle.js",
+        "inputFiles": [
+            "index.js",
+            "fontawesome.js",
+            "fa-custom.js"
+        ]
+    },
+    {
+        "outputFileName": "index.html",
+        "inputFiles": [
+            "index.original.html"
+        ]
+    }
 ]
